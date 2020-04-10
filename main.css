@@ -1,0 +1,53 @@
+body {
+    background-color: #889bba;
+    font-family: sans-serif;
+}
+
+header {
+    font-size: 60px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.content {
+    padding: 15px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+nav {
+    padding: 10px;
+    font-size: 24px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.box {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}
+
+article h1 {
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+article h6 {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    margin: 0px;
+}
+
+footer {
+   text-align: center; 
+   font-weight: lighter;
+   font-size: 10px;
+}
