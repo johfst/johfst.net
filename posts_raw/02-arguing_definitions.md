@@ -23,8 +23,8 @@ cross with you instead of having a perfectly reasonable conversation about what
 sorts of things you like to sit down in. He thought this was a sufficient
 condition for the definition to be "wrong," and I didn't.
 
-You don't want to be overzealous with this; there are some questions which,
-on their face, look to be purely about the definitions of words, but in fact are
+You don't want to be overzealous with this; there are some questions which, on
+their face, look to be purely about the definitions of words, but in fact are
 actually asking something important.
 
 This discussion came up in part due to another discusson I had with the same
