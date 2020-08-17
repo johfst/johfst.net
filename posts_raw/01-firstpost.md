@@ -1,7 +1,7 @@
 # First
 ###### 2020-04-10
 
-This blog is generated with a few template files, a bit of css, and a roughly 50-line
+This site is generated with a few template files, a bit of css, and a roughly 50-line
 python script. All-in-all, it took maybe three late-night hours to get everything 
 working; I'm writing this at 4:09 AM on Friday morning.
 
@@ -16,6 +16,11 @@ talking about. This seems broadly true of ideas in general.
 So I guess I'll put stuff here that I'm thinking about in the hopes that I'll
 better understand it myself. Maybe someone else will find it useful too.
 
+Or I'll get busy with other things and it'll just sit here.
+
 And now I realize I've just copied xkcd -\_-
+
+UPDATE: Yes can confirm it's just sitting here. That's fine. I need *something*
+to occupy the domain I use for ssh-ing.
 
 [aguzey]: https://guzey.com/personal/why-have-a-blog/
