@@ -20,7 +20,4 @@ Or I'll get busy with other things and it'll just sit here.
 
 And now I realize I've just copied xkcd -\_-
 
-UPDATE: Yes can confirm it's just sitting here. That's fine. I need *something*
-to occupy the domain I use for ssh-ing.
-
 [aguzey]: https://guzey.com/personal/why-have-a-blog/
